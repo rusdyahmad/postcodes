@@ -1,3 +1,3 @@
 # Senarai Poskod & Negeri Di Malaysia
 
-- MySQL & JSON format
+- MySQL, JSON & CSV format
