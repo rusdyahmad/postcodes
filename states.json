@@ -1,0 +1,82 @@
+[
+    {
+        "state_code": "JHR",
+        "state_name": "Johor",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "KDH",
+        "state_name": "Kedah",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "KTN",
+        "state_name": "Kelantan",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "KUL",
+        "state_name": "Wilayah Persekutuan Kuala Lumpur",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "LBN",
+        "state_name": "Wilayah Persekutuan Labuan",
+        "location": "East"
+    },
+    {
+        "state_code": "MLK",
+        "state_name": "Melaka",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "NSN",
+        "state_name": "Negeri Sembilan",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "PHG",
+        "state_name": "Pahang",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "PJY",
+        "state_name": "Wilayah Persekutuan Putra Jaya",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "PLS",
+        "state_name": "Perlis",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "PNG",
+        "state_name": "Pulau Pinang",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "PRK",
+        "state_name": "Perak",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "SBH",
+        "state_name": "Sabah",
+        "location": "East"
+    },
+    {
+        "state_code": "SGR",
+        "state_name": "Selangor",
+        "location": "Peninsular"
+    },
+    {
+        "state_code": "SRW",
+        "state_name": "Sarawak",
+        "location": "East"
+    },
+    {
+        "state_code": "TRG",
+        "state_name": "Terengganu",
+        "location": "Peninsular"
+    }
+]
