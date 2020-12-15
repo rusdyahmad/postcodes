@@ -34,7 +34,7 @@ INSERT IGNORE INTO `states` (`state_code`, `state_name`, `location`) VALUES
 	('MLK', 'Melaka', 'Peninsular'),
 	('NSN', 'Negeri Sembilan', 'Peninsular'),
 	('PHG', 'Pahang', 'Peninsular'),
-	('PJY', 'Wilayah Persekutuan Putra Jaya', 'Peninsular'),
+	('PJY', 'Wilayah Persekutuan Putrajaya', 'Peninsular'),
 	('PLS', 'Perlis', 'Peninsular'),
 	('PNG', 'Pulau Pinang', 'Peninsular'),
 	('PRK', 'Perak', 'Peninsular'),
